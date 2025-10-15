@@ -1,1 +1,2 @@
+docker build -t mtd-research-env .
 docker run -it --rm -v "$(pwd):/project" mtd-research-env
