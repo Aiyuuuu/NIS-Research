@@ -1,0 +1,17 @@
+radiff2 -s file1 file2
+radiff2 -C file1 file2
+radiff2 -C -v file1 file2
+radiff2 -B file1 file2
+radiff2 -C -F main prog1 prog2
+
+ssdeep -a -d file1 file2
+
+sdhash -c <(sdhash file1) <(sdhash file2)
+sdhash -g <(sdhash file1) <(sdhash file2)
+
+
+sdhash file1 > file1.sdhash
+sdhash file2 > file2.sdhash
+sdhash -c file1.sdhash file2.sdhash
+
+
