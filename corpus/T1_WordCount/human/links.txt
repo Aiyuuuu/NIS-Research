@@ -1,0 +1,6 @@
+https://github.com/CaolanCode/Word-Count/blob/main/ccwc.c
+https://github.com/jhleung/word-count/blob/master/mywc.c
+https://github.com/esammahdi/KS_Word_Counter/blob/main/ks.c
+https://github.com/kaushikei22/wc/blob/master/wordcount.c
+https://github.com/m1cr0naut/mywc/blob/master/mywc.c
+

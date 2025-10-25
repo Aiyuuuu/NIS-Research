@@ -1,0 +1,19 @@
+gemini 2.5 pro
+
+1. "You are an expert C programmer. Write a complete, self-contained C program that reads from a file or standard input (if a file isn't given) and calculates the total number of lines, words, and characters. The definition of a word is a sequence of non-whitespace characters separated by spaces, tabs, or newlines. The program should print the three counts to standard output. Use only the standard C library."
+
+give 4 additional variations of this prompt that will result in the generation of functionally similar code. simulate normal variations in the prompts given by different humans, like the each prompt was given by a different human. do not add lower level details. I asked deepseek deepthink.
+
+Variation 2 (Focusing on Clarity)
+write a self-contained C program that acts like the classic 'wc' (word count) utility. It should take a filename as an argument, or read from standard input if no file is given. The program must count and output the number of lines, words, and bytes (characters) in the input. A word is defined as any sequence of characters separated by whitespace.
+
+Variation 3 (Focusing on the Output and Use Case)
+I need a C program for a text processing script. The program should analyze input text from a file or from the user's typing and report three summary statistics: the total number of lines, the total number of words, and the total number of characters. The output should be these three numbers, formatted simply. For words, just split the text on any whitespace (spaces, tabs, or newlines). Please implement this using only standard C libraries.
+
+Variation 4 (A More Terse, Direct Request)
+"Write a complete C program that prints the line, word, and character count of a given text stream. If a command-line argument is provided, it should be treated as a filename to read from. Otherwise, the program should process its standard input. Only use the standard C library for this task.
+
+Variation 5 (Focusing on the Counting Logic)
+Create a C program that can process text and compute three metrics: the number of characters, the number of words, and the number of lines. The input source should be either a file specified on the command line or standard input. The key part is correctly identifying word boundaries using any whitespace as a delimiter. The final code should be a standalone program using the standard C library and print the three counts in order.
+
+

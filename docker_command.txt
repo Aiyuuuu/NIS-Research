@@ -1,2 +1,49 @@
 docker build -t mtd-research-env .
 docker run -it --rm -v "$(pwd):/project" mtd-research-env
+
+
+
+docker system df
+
+
+Stop Docker daemon
+
+sudo systemctl stop docker
+sudo systemctl stop containerd
+
+
+Stop all running containers
+
+docker stop $(docker ps -q) 2>/dev/null || true
+
+
+Remove all containers
+
+docker rm -f $(docker ps -a -q) 2>/dev/null || true
+
+
+Remove all images
+
+docker rmi -f $(docker images -q) 2>/dev/null || true
+
+
+Remove all volumes
+
+docker volume rm $(docker volume ls -q) 2>/dev/null || true
+
+
+Remove all user-created networks
+
+# this leaves the default networks alone
+docker network ls --filter "type=custom" -q | xargs -r docker network rm
+
+
+Prune remaining Docker objects (final cleanup)
+
+docker system prune -a --volumes -f
+
+
+(Optional) Start Docker again
+
+sudo systemctl start containerd
+sudo systemctl start docker
