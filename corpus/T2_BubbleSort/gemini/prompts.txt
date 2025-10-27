@@ -1,0 +1,11 @@
+gemini 2.5 pro
+
+1. "You are an expert C programmer. Write a complete, self-contained C program that implements the Bubble Sort algorithm. The program must read a list of integers from standard input, sort them in ascending order, and print the sorted list to standard output. Use only the standard C library."
+
+2. "Write a C program that demonstrates the Bubble Sort algorithm. The program should accept a list of integer numbers from standard input, sort them into ascending order using the Bubble Sort technique, and then display the sorted list. the input is from a terminal, the user should be able to type the numbers one by one. The code must be self-contained."
+
+3. "I need a simple C program to sort numbers for a beginner programming tutorial. It should use the Bubble Sort method. The user runs the program and enters a sequence of integers, and the program prints them back sorted from smallest to largest. Please make sure the code is easy to read and doesn't rely on any external libraries beyond the standard C library."
+
+4. "Implement a Bubble Sort function in a complete C program. The main function must read an array of integers from stdin, call a bubbleSort function to sort the array in-place, and then print the result. The program should be a standalone command-line tool."
+
+5. "Create a C program that sorts integers using the classic Bubble Sort algorithm. The key part is to repeatedly step through the list, comparing adjacent elements and swapping them if they are in the wrong order. The program should get its input from standard input (like numbers entered by the user or piped from another command) and output the sorted list to the screen. The final code should be a complete program using only the standard C library."
