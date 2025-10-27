@@ -1,0 +1,13 @@
+gpt5 thinking mini
+
+1: You are an expert C programmer. Write a complete, self-contained C program that reads a sorted list of n integers from standard input (first line contains n, followed by n integers, one per line) and then reads a single integer target. The program should perform a binary search and print the index of the target if found. The program should use only the standard C library.
+
+2: "Write a C program that demonstrates the Binary Search algorithm. The program should accept a sorted list of integer numbers from standard input (first the count, then the numbers one per line), then accept a target value to search for. Using the Binary Search technique, the program should find and display the index position of the target if found. The code must be self-contained and handle user input from the terminal."
+
+3: "I need a simple C program to search for numbers in a sorted list for a beginner programming tutorial. It should use the Binary Search method. The user runs the program, first enters how many numbers are in the sorted list, then enters the sorted numbers one by one, and finally enters the number to search for. The program should print the position where the number was found. Please make sure the code is easy to read and doesn't rely on any external libraries beyond the standard C library."
+
+4: "Implement a Binary Search function in a complete C program. The main function must read a sorted array of integers from stdin (first the size, then the elements), read a target value, call a binarySearch function to find the target, and then print the result index. The program should be a standalone command-line tool that efficiently searches in sorted data."
+
+5: "Create a C program that searches for integers in a sorted list using the classic Binary Search algorithm. The key part is to repeatedly divide the search interval in half until the target is found or the interval is empty. The program should get its input from standard input (first the number of elements, then the sorted elements, then the target value) and output the found index to the screen. The final code should be a complete program using only the standard C library."
+
+

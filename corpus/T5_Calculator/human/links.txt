@@ -1,0 +1,6 @@
+https://github.com/HEGHELON/c_calculator/blob/main/calculator.c
+https://github.com/fahad-israr/Calculator/blob/master/calci.c
+https://github.com/Deathstar427/Simple-calculator/blob/master/calc/main.c
+https://github.com/NitishBiswas/SimpleCalculator/blob/master/main.c
+https://github.com/fahimahammed/simple-calculator-in-c/blob/main/simple-calculator.c
+

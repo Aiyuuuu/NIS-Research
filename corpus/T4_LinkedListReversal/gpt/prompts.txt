@@ -1,0 +1,11 @@
+gpt5 thinking mini
+
+1:You are an expert C programmer. Write a complete, self-contained C program that implements a singly linked list for n integers. The program should read integers from standard input, adding each integer to the tail of the list. Then, it should reverse the linked list. Finally, it should traverse the list and print all its elements. Use only the standard C library.
+
+2: "Write a C program that demonstrates the creation and reversal of a singly linked list. The program should accept a list of integer numbers from standard input, adding each one to the end (tail) of a linked list as the user enters them. After all numbers are entered, the program should reverse the linked list and then display all the elements from the newly reversed list. The code must be self-contained and handle user input from the terminal."
+
+3: "I need a simple C program for a beginner programming tutorial that shows how a linked list works. It should let the user type in a sequence of integers, storing them in a linked list. Then, the program should reverse the order of the list. Finally, it should print out the numbers in their new, reversed order. Please make sure the code is easy to read, with clear comments, and doesn't rely on any external libraries beyond the standard C library."
+
+4: "Implement a linked list reversal function in a complete C program. The main function must read an array of integers from stdin, build a singly linked list by inserting each new element at the tail, call a reverseList function to reverse the list in-place, and then print the result by traversing the list. The program should be a standalone command-line tool demonstrating fundamental linked list manipulation."
+
+5: "Create a C program that builds a singly linked list from user input and then reverses it. The key part is to manipulate the node pointers to reverse the list's direction without creating a new list. The program should get its input from standard input (like numbers entered by the user) and output the elements of the reversed list to the screen. The final code should be a complete program, using dynamic memory allocation and only the standard C library."

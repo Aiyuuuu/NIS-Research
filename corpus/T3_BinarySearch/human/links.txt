@@ -1,0 +1,7 @@
+https://github.com/rodrigodsluz/data-structures-and-algorithms/blob/master/Search%20Algorithms/main.c (translated and modified)
+https://github.com/CSchank/binary_search/blob/master/ex_ints.c (slightly modified)
+https://github.com/nksharma47/BinarySearch/blob/master/BinarySearch.c
+https://github.com/majkgolonka/Binary-search/blob/main/BinarySearchfinal.c
+https://github.com/abhichand26/searching-algorithms/blob/master/Searching.c
+
+

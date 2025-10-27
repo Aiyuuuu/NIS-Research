@@ -1,0 +1,9 @@
+**1:** You are an expert C programmer. Write a complete, self-contained C program that functions as a simple interactive calculator. It must prompt the user to enter two numbers and an operator (+, -, *, /) using scanf, perform the specified calculation, and print the result. Use only the standard C library.
+
+**2:** "Write a C program that demonstrates a simple interactive calculator. The program should prompt the user to enter a number, an operator (+, -, *, /), and another number. It should perform the basic arithmetic operation specified and print the result to the terminal. The code must be self-contained."
+
+**3:** "I need a simple C program for a beginner programming tutorial that acts as a basic interactive calculator. The user should run the program and be prompted to enter a number, an operator like + or *, and then another number. The program should calculate the result and print it. Please make sure the code is easy to read, checks for division by zero, and doesn't rely on any external libraries beyond the standard C library."
+
+**4:** "Implement a simple arithmetic calculator as a complete C program. The main function must prompt the user to enter two operands and an operator using scanf, parse them, call a calculate function to perform the operation, and then print the result. The program should be a robust standalone tool that validates input and handles errors gracefully."
+
+**5:** "Create a C program that functions as a basic interactive calculator. The core logic is to prompt the user for two numbers and an operator(+,-,*and / only), select the correct arithmetic operation, and compute the result. The program must get its input through scanf and output the final calculation to the screen. The final code should be a complete, robust program using only the standard C library, including checks for division by zero."

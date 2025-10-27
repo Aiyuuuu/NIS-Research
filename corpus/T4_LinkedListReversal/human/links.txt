@@ -1,0 +1,5 @@
+https://github.com/grapefruit623/ReverseLinkedList/blob/master/reverseList.c
+https://github.com/Emircan-Kirez/Reverse-Linked-List/blob/master/main.c
+https://github.com/dlorch/reverse-linked-list/blob/master/algorithms-datastructures/reverse-linked-list.c
+https://github.com/pjk87/Reverse_LinkedList/blob/master/LinkedList_reverse.c
+https://github.com/roshan-shetty10/Reverse-linked-list/blob/master/revll.c

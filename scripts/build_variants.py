@@ -17,9 +17,9 @@ OUTPUT_DIR = PROJECT_ROOT / "output"
 TASKS_TO_PROCESS = [
     "T1_WordCount",
     "T2_BubbleSort",
-    # "T3_RecursiveFactorial",
-    # "T4_LinkedList",
-    # "T5_Calculator",
+    "T3_BinarySearch",
+    "T4_LinkedListReversal",
+    "T5_Calculator",
 ]
 
 # --- SCRIPT LOGIC ---
