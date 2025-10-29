@@ -1,0 +1,10 @@
+Group,Tool,mean,std,count
+gemini,radiff2,91.055,5.757,150
+gemini,sdhash,33.76,19.639,150
+gemini,ssdeep,8.66,19.168,150
+gpt5,radiff2,89.311,6.098,150
+gpt5,sdhash,25.64,15.522,150
+gpt5,ssdeep,4.913,14.37,150
+human,radiff2,88.853,6.597,150
+human,sdhash,25.753,17.466,146
+human,ssdeep,1.547,8.54,150

@@ -1,0 +1,4 @@
+Tool,Human,Gemini,GPT5,LLM_Avg,Absolute_Difference,Percent_Difference
+radiff2,93.09,95.662,94.259,94.96,1.87,2.009
+sdhash,28.542,38.35,27.04,32.695,4.153,14.552
+ssdeep,6.32,22.08,11.36,16.72,10.4,164.557

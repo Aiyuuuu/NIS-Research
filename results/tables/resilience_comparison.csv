@@ -1,0 +1,4 @@
+Tool,Human_Mean,LLM_Mean,Difference,Percent_Difference
+radiff2,88.853,90.183,1.33,1.497
+sdhash,25.753,29.7,3.947,15.326
+ssdeep,1.547,6.786,5.24,338.688

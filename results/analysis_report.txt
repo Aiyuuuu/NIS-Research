@@ -1,0 +1,42 @@
+MTD vs LLM-Generated Code - Comprehensive Analysis Report
+============================================================
+
+STATISTICAL NOTE: Using Mann-Whitney U tests (non-parametric)
+for robust analysis of non-normal similarity score distributions
+
+EXECUTIVE SUMMARY
+--------------------
+• LLM code shows 60.4% higher baseline similarity than human code
+• Most effective defense: _elit (42.1% similarity reduction)
+• After defenses, LLM code remains 118.5% more similar than human code
+
+DETAILED FINDINGS
+--------------------
+
+1. BASELINE HOMOGENEITY (Mann-Whitney U Test)
+ radiff2: Human=93.1, LLM=95.0 (+2.0%) ** (U=7498, r=0.250)
+ sdhash: Human=28.5, LLM=32.7 (+14.6%) ** (U=7828, r=0.185)
+ ssdeep: Human=6.3, LLM=16.7 (+164.6%) ** (U=7970, r=0.203)
+
+2. DEFENSE EFFECTIVENESS RANKING
+ 1. _elit: 42.1% similarity reduction
+ 2. _cff: 36.9% similarity reduction
+ 3. _stripped: -0.7% similarity reduction
+ 4. _O3: -9.8% similarity reduction
+ 5. _clang_O2: -21.8% similarity reduction
+
+3. FINAL RESILIENCE (After Top Defenses - Mann-Whitney U Test)
+ radiff2: Human=88.9, LLM=90.2 (+1.5%) (U=20045, r=0.109)
+ sdhash: Human=25.8, LLM=29.7 (+15.3%) ** (U=18872, r=0.138)
+ ssdeep: Human=1.5, LLM=6.8 (+338.7%) ** (U=20076, r=0.108)
+
+** Statistically significant (p < 0.05, Mann-Whitney U test)
+r = rank-biserial correlation effect size (positive = LLM > Human)
+
+SECURITY IMPLICATIONS
+--------------------
+• LLM-generated code exhibits inherent structural homogeneity
+• Standard MTD techniques reduce but don't eliminate this fingerprint
+• Advanced obfuscation (_cff, _elit) shows best results
+• Residual similarity may enable origin detection post-defense
+• Non-parametric tests confirm robustness of findings
