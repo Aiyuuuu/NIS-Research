@@ -1,0 +1,6 @@
+basename,binary,origin,defense,cyclomatic,nodes,edges,locals,if,goto,while,decompiled_len
+1_base,1_base,LLM,Base,24,24,46,8,10,4,0,1931
+1_cff,1_cff,LLM,CFF,3,3,4,3,0,0,0,387
+4_base,4_base,Human,Base,37,15,50,5,7,4,0,1994
+4_cff,4_cff,Human,CFF,3,3,4,3,0,0,0,387
+
