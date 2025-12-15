@@ -1,0 +1,17 @@
+{
+  "decompiled_text_len": 2527, 
+  "edges": 59, 
+  "var_count_text_tokens": 41, 
+  "goto_count": 0, 
+  "while_count": 5, 
+  "basename": "4_clang_O2", 
+  "nodes": 32, 
+  "ghidra_version": "unknown", 
+  "binary": "/home/ayan/Desktop/mtd_llm_research/output/T2_BubbleSort/gemini/4_clang_O2", 
+  "function": "main", 
+  "if_count": 11, 
+  "switch_count": 0, 
+  "locals_count_decompiler": 13, 
+  "cyclomatic_est": 29, 
+  "timestamp": 1763986831.859
+}

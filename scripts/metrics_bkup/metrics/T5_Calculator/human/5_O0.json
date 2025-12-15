@@ -1,0 +1,17 @@
+{
+  "decompiled_text_len": 1732, 
+  "edges": 51, 
+  "var_count_text_tokens": 41, 
+  "goto_count": 1, 
+  "while_count": 0, 
+  "basename": "5_O0", 
+  "nodes": 21, 
+  "ghidra_version": "unknown", 
+  "binary": "/home/ayan/Desktop/mtd_llm_research/output/T5_Calculator/human/5_O0", 
+  "function": "main", 
+  "if_count": 9, 
+  "switch_count": 0, 
+  "locals_count_decompiler": 6, 
+  "cyclomatic_est": 32, 
+  "timestamp": 1763988071.46
+}

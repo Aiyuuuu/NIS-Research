@@ -1,0 +1,17 @@
+{
+  "decompiled_text_len": 5380, 
+  "edges": 29, 
+  "var_count_text_tokens": 107, 
+  "goto_count": 0, 
+  "while_count": 1, 
+  "basename": "3_elit", 
+  "nodes": 9, 
+  "ghidra_version": "unknown", 
+  "binary": "/home/ayan/Desktop/mtd_llm_research/output/T3_BinarySearch/human/3_elit", 
+  "function": "main", 
+  "if_count": 3, 
+  "switch_count": 0, 
+  "locals_count_decompiler": 20, 
+  "cyclomatic_est": 22, 
+  "timestamp": 1763993384.038
+}

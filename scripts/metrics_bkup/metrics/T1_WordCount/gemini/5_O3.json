@@ -1,0 +1,17 @@
+{
+  "decompiled_text_len": 1184, 
+  "edges": 31, 
+  "var_count_text_tokens": 31, 
+  "goto_count": 1, 
+  "while_count": 2, 
+  "basename": "5_O3", 
+  "nodes": 17, 
+  "ghidra_version": "unknown", 
+  "binary": "/home/ayan/Desktop/mtd_llm_research/output/T1_WordCount/gemini/5_O3", 
+  "function": "main", 
+  "if_count": 6, 
+  "switch_count": 0, 
+  "locals_count_decompiler": 9, 
+  "cyclomatic_est": 16, 
+  "timestamp": 1763991845.107
+}

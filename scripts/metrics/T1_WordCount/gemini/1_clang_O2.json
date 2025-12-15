@@ -1,0 +1,17 @@
+{
+  "decompiled_text_len": 1241, 
+  "edges": 28, 
+  "var_count_text_tokens": 29, 
+  "goto_count": 0, 
+  "while_count": 1, 
+  "basename": "1_clang_O2", 
+  "nodes": 15, 
+  "ghidra_version": "unknown", 
+  "binary": "/home/ayan/Desktop/mtd_llm_research/output/T1_WordCount/gemini/1_clang_O2", 
+  "function": "main", 
+  "if_count": 5, 
+  "switch_count": 0, 
+  "locals_count_decompiler": 11, 
+  "cyclomatic_est": 15, 
+  "timestamp": 1763991756.103
+}

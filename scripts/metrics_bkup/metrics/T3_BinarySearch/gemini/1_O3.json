@@ -1,0 +1,17 @@
+{
+  "decompiled_text_len": 2489, 
+  "edges": 57, 
+  "var_count_text_tokens": 56, 
+  "goto_count": 7, 
+  "while_count": 3, 
+  "basename": "1_O3", 
+  "nodes": 29, 
+  "ghidra_version": "unknown", 
+  "binary": "/home/ayan/Desktop/mtd_llm_research/output/T3_BinarySearch/gemini/1_O3", 
+  "function": "main", 
+  "if_count": 12, 
+  "switch_count": 0, 
+  "locals_count_decompiler": 10, 
+  "cyclomatic_est": 30, 
+  "timestamp": 1763994143.659
+}

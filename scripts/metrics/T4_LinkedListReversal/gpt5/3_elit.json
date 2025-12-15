@@ -1,0 +1,17 @@
+{
+  "decompiled_text_len": 8416, 
+  "edges": 48, 
+  "var_count_text_tokens": 117, 
+  "goto_count": 1, 
+  "while_count": 2, 
+  "basename": "3_elit", 
+  "nodes": 17, 
+  "ghidra_version": "unknown", 
+  "binary": "/home/ayan/Desktop/mtd_llm_research/output/T4_LinkedListReversal/gpt5/3_elit", 
+  "function": "main", 
+  "if_count": 5, 
+  "switch_count": 0, 
+  "locals_count_decompiler": 24, 
+  "cyclomatic_est": 33, 
+  "timestamp": 1763983935.534
+}

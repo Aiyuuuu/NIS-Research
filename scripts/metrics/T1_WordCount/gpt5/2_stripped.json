@@ -1,0 +1,17 @@
+{
+  "decompiled_text_len": 144, 
+  "edges": 4, 
+  "var_count_text_tokens": 4, 
+  "goto_count": 0, 
+  "while_count": 0, 
+  "basename": "2_stripped", 
+  "nodes": 3, 
+  "ghidra_version": "unknown", 
+  "binary": "/home/ayan/Desktop/mtd_llm_research/output/T1_WordCount/gpt5/2_stripped", 
+  "function": "_DT_INIT", 
+  "if_count": 1, 
+  "switch_count": 0, 
+  "locals_count_decompiler": 0, 
+  "cyclomatic_est": 3, 
+  "timestamp": 1763990493.982
+}

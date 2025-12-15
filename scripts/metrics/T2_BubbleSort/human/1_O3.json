@@ -1,0 +1,17 @@
+{
+  "decompiled_text_len": 1570, 
+  "edges": 33, 
+  "var_count_text_tokens": 35, 
+  "goto_count": 0, 
+  "while_count": 4, 
+  "basename": "1_O3", 
+  "nodes": 18, 
+  "ghidra_version": "unknown", 
+  "binary": "/home/ayan/Desktop/mtd_llm_research/output/T2_BubbleSort/human/1_O3", 
+  "function": "main", 
+  "if_count": 5, 
+  "switch_count": 0, 
+  "locals_count_decompiler": 10, 
+  "cyclomatic_est": 17, 
+  "timestamp": 1763986334.411
+}

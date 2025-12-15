@@ -1,0 +1,17 @@
+{
+  "decompiled_text_len": 2158, 
+  "edges": 49, 
+  "var_count_text_tokens": 51, 
+  "goto_count": 1, 
+  "while_count": 6, 
+  "basename": "2_clang_O2", 
+  "nodes": 22, 
+  "ghidra_version": "unknown", 
+  "binary": "/home/ayan/Desktop/mtd_llm_research/output/T4_LinkedListReversal/gemini/2_clang_O2", 
+  "function": "main", 
+  "if_count": 4, 
+  "switch_count": 0, 
+  "locals_count_decompiler": 8, 
+  "cyclomatic_est": 29, 
+  "timestamp": 1763984683.706
+}

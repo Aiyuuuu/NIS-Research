@@ -1,0 +1,17 @@
+{
+  "decompiled_text_len": 6384, 
+  "edges": 40, 
+  "var_count_text_tokens": 106, 
+  "goto_count": 2, 
+  "while_count": 1, 
+  "basename": "5_elit", 
+  "nodes": 17, 
+  "ghidra_version": "unknown", 
+  "binary": "/home/ayan/Desktop/mtd_llm_research/output/T3_BinarySearch/gpt5/5_elit", 
+  "function": "main", 
+  "if_count": 8, 
+  "switch_count": 0, 
+  "locals_count_decompiler": 21, 
+  "cyclomatic_est": 25, 
+  "timestamp": 1763992394.034
+}

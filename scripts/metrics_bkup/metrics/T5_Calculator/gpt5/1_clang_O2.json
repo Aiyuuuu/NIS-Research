@@ -1,0 +1,17 @@
+{
+  "decompiled_text_len": 1759, 
+  "edges": 37, 
+  "var_count_text_tokens": 38, 
+  "goto_count": 1, 
+  "while_count": 0, 
+  "basename": "1_clang_O2", 
+  "nodes": 20, 
+  "ghidra_version": "unknown", 
+  "binary": "/home/ayan/Desktop/mtd_llm_research/output/T5_Calculator/gpt5/1_clang_O2", 
+  "function": "main", 
+  "if_count": 4, 
+  "switch_count": 1, 
+  "locals_count_decompiler": 8, 
+  "cyclomatic_est": 19, 
+  "timestamp": 1763987382.663
+}

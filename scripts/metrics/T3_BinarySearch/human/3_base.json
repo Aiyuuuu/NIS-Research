@@ -1,0 +1,17 @@
+{
+  "decompiled_text_len": 983, 
+  "edges": 22, 
+  "var_count_text_tokens": 34, 
+  "goto_count": 0, 
+  "while_count": 1, 
+  "basename": "3_base", 
+  "nodes": 9, 
+  "ghidra_version": "unknown", 
+  "binary": "/home/ayan/Desktop/mtd_llm_research/output/T3_BinarySearch/human/3_base", 
+  "function": "main", 
+  "if_count": 3, 
+  "switch_count": 0, 
+  "locals_count_decompiler": 7, 
+  "cyclomatic_est": 15, 
+  "timestamp": 1763993341.563
+}

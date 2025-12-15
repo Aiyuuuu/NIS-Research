@@ -1,0 +1,17 @@
+{
+  "decompiled_text_len": 5406, 
+  "edges": 30, 
+  "var_count_text_tokens": 93, 
+  "goto_count": 0, 
+  "while_count": 0, 
+  "basename": "4_elit", 
+  "nodes": 7, 
+  "ghidra_version": "unknown", 
+  "binary": "/home/ayan/Desktop/mtd_llm_research/output/T1_WordCount/human/4_elit", 
+  "function": "main", 
+  "if_count": 0, 
+  "switch_count": 0, 
+  "locals_count_decompiler": 15, 
+  "cyclomatic_est": 25, 
+  "timestamp": 1763990975.968
+}

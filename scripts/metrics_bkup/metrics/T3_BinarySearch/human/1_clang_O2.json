@@ -1,0 +1,17 @@
+{
+  "decompiled_text_len": 1728, 
+  "edges": 23, 
+  "var_count_text_tokens": 26, 
+  "goto_count": 2, 
+  "while_count": 3, 
+  "basename": "1_clang_O2", 
+  "nodes": 12, 
+  "ghidra_version": "unknown", 
+  "binary": "/home/ayan/Desktop/mtd_llm_research/output/T3_BinarySearch/human/1_clang_O2", 
+  "function": "main", 
+  "if_count": 5, 
+  "switch_count": 0, 
+  "locals_count_decompiler": 15, 
+  "cyclomatic_est": 13, 
+  "timestamp": 1763993259.948
+}

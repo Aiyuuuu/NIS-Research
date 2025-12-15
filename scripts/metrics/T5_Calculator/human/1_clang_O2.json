@@ -1,0 +1,17 @@
+{
+  "decompiled_text_len": 828, 
+  "edges": 32, 
+  "var_count_text_tokens": 26, 
+  "goto_count": 0, 
+  "while_count": 0, 
+  "basename": "1_clang_O2", 
+  "nodes": 13, 
+  "ghidra_version": "unknown", 
+  "binary": "/home/ayan/Desktop/mtd_llm_research/output/T5_Calculator/human/1_clang_O2", 
+  "function": "main", 
+  "if_count": 5, 
+  "switch_count": 0, 
+  "locals_count_decompiler": 3, 
+  "cyclomatic_est": 21, 
+  "timestamp": 1763987917.543
+}

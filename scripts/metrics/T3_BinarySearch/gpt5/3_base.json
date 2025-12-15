@@ -1,0 +1,17 @@
+{
+  "decompiled_text_len": 1830, 
+  "edges": 43, 
+  "var_count_text_tokens": 56, 
+  "goto_count": 2, 
+  "while_count": 1, 
+  "basename": "3_base", 
+  "nodes": 19, 
+  "ghidra_version": "unknown", 
+  "binary": "/home/ayan/Desktop/mtd_llm_research/output/T3_BinarySearch/gpt5/3_base", 
+  "function": "main", 
+  "if_count": 7, 
+  "switch_count": 0, 
+  "locals_count_decompiler": 9, 
+  "cyclomatic_est": 26, 
+  "timestamp": 1763992532.24
+}

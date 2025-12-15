@@ -1,0 +1,17 @@
+{
+  "decompiled_text_len": 1686, 
+  "edges": 39, 
+  "var_count_text_tokens": 44, 
+  "goto_count": 0, 
+  "while_count": 3, 
+  "basename": "5_base", 
+  "nodes": 19, 
+  "ghidra_version": "unknown", 
+  "binary": "/home/ayan/Desktop/mtd_llm_research/output/T4_LinkedListReversal/gemini/5_base", 
+  "function": "main", 
+  "if_count": 5, 
+  "switch_count": 0, 
+  "locals_count_decompiler": 9, 
+  "cyclomatic_est": 22, 
+  "timestamp": 1763984714.867
+}

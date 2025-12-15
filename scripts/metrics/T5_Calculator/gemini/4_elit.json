@@ -1,0 +1,17 @@
+{
+  "decompiled_text_len": 4715, 
+  "edges": 35, 
+  "var_count_text_tokens": 96, 
+  "goto_count": 2, 
+  "while_count": 0, 
+  "basename": "4_elit", 
+  "nodes": 14, 
+  "ghidra_version": "unknown", 
+  "binary": "/home/ayan/Desktop/mtd_llm_research/output/T5_Calculator/gemini/4_elit", 
+  "function": "main", 
+  "if_count": 5, 
+  "switch_count": 0, 
+  "locals_count_decompiler": 17, 
+  "cyclomatic_est": 23, 
+  "timestamp": 1763989245.132
+}

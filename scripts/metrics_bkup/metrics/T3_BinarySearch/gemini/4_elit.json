@@ -1,0 +1,17 @@
+{
+  "decompiled_text_len": 7947, 
+  "edges": 60, 
+  "var_count_text_tokens": 109, 
+  "goto_count": 2, 
+  "while_count": 1, 
+  "basename": "4_elit", 
+  "nodes": 21, 
+  "ghidra_version": "unknown", 
+  "binary": "/home/ayan/Desktop/mtd_llm_research/output/T3_BinarySearch/gemini/4_elit", 
+  "function": "main", 
+  "if_count": 8, 
+  "switch_count": 0, 
+  "locals_count_decompiler": 19, 
+  "cyclomatic_est": 41, 
+  "timestamp": 1763993868.14
+}

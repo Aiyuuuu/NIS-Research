@@ -1,0 +1,17 @@
+{
+  "decompiled_text_len": 1560, 
+  "edges": 33, 
+  "var_count_text_tokens": 52, 
+  "goto_count": 1, 
+  "while_count": 1, 
+  "basename": "2_base", 
+  "nodes": 15, 
+  "ghidra_version": "unknown", 
+  "binary": "/home/ayan/Desktop/mtd_llm_research/output/T3_BinarySearch/gemini/2_base", 
+  "function": "main", 
+  "if_count": 5, 
+  "switch_count": 0, 
+  "locals_count_decompiler": 9, 
+  "cyclomatic_est": 20, 
+  "timestamp": 1763993890.945
+}

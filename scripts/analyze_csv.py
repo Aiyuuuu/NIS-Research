@@ -78,7 +78,7 @@ class MTDAnalyzer:
         print("\nAnalyzing baseline differences (Mann-Whitney U test)...")
        
         # Filter baseline variants
-        baseline_variants = ['_base', 'O0']
+        baseline_variants = ['_base', '_O0']
         baseline_data = self.df[self.df['Variant'].isin(baseline_variants)]
        
         # Calculate baseline means

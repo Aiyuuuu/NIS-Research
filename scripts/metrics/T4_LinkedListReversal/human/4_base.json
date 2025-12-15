@@ -1,0 +1,17 @@
+{
+  "decompiled_text_len": 1902, 
+  "edges": 44, 
+  "var_count_text_tokens": 35, 
+  "goto_count": 1, 
+  "while_count": 3, 
+  "basename": "4_base", 
+  "nodes": 24, 
+  "ghidra_version": "unknown", 
+  "binary": "/home/ayan/Desktop/mtd_llm_research/output/T4_LinkedListReversal/human/4_base", 
+  "function": "main", 
+  "if_count": 5, 
+  "switch_count": 0, 
+  "locals_count_decompiler": 9, 
+  "cyclomatic_est": 22, 
+  "timestamp": 1763984016.789
+}

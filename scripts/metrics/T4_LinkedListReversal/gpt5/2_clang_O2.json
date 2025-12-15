@@ -1,0 +1,17 @@
+{
+  "decompiled_text_len": 2688, 
+  "edges": 61, 
+  "var_count_text_tokens": 55, 
+  "goto_count": 0, 
+  "while_count": 6, 
+  "basename": "2_clang_O2", 
+  "nodes": 31, 
+  "ghidra_version": "unknown", 
+  "binary": "/home/ayan/Desktop/mtd_llm_research/output/T4_LinkedListReversal/gpt5/2_clang_O2", 
+  "function": "main", 
+  "if_count": 8, 
+  "switch_count": 0, 
+  "locals_count_decompiler": 12, 
+  "cyclomatic_est": 32, 
+  "timestamp": 1763983355.153
+}

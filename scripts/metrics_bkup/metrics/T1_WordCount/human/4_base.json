@@ -1,0 +1,17 @@
+{
+  "decompiled_text_len": 1686, 
+  "edges": 34, 
+  "var_count_text_tokens": 33, 
+  "goto_count": 0, 
+  "while_count": 3, 
+  "basename": "4_base", 
+  "nodes": 13, 
+  "ghidra_version": "unknown", 
+  "binary": "/home/ayan/Desktop/mtd_llm_research/output/T1_WordCount/human/4_base", 
+  "function": "main", 
+  "if_count": 3, 
+  "switch_count": 0, 
+  "locals_count_decompiler": 14, 
+  "cyclomatic_est": 23, 
+  "timestamp": 1763990644.19
+}

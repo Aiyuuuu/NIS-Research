@@ -1,0 +1,17 @@
+{
+  "decompiled_text_len": 1090, 
+  "edges": 27, 
+  "var_count_text_tokens": 41, 
+  "goto_count": 2, 
+  "while_count": 0, 
+  "basename": "1_clang_O2", 
+  "nodes": 15, 
+  "ghidra_version": "unknown", 
+  "binary": "/home/ayan/Desktop/mtd_llm_research/output/T5_Calculator/gemini/1_clang_O2", 
+  "function": "main", 
+  "if_count": 2, 
+  "switch_count": 1, 
+  "locals_count_decompiler": 6, 
+  "cyclomatic_est": 14, 
+  "timestamp": 1763989661.088
+}

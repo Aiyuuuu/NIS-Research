@@ -1,0 +1,17 @@
+{
+  "decompiled_text_len": 387, 
+  "edges": 4, 
+  "var_count_text_tokens": 25, 
+  "goto_count": 0, 
+  "while_count": 0, 
+  "basename": "2_cff", 
+  "nodes": 3, 
+  "ghidra_version": "unknown", 
+  "binary": "/home/ayan/Desktop/mtd_llm_research/output/T2_BubbleSort/gemini/2_cff", 
+  "function": "main", 
+  "if_count": 0, 
+  "switch_count": 0, 
+  "locals_count_decompiler": 3, 
+  "cyclomatic_est": 3, 
+  "timestamp": 1763986507.295
+}

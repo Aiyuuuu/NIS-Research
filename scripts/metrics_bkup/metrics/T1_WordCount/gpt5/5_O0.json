@@ -1,0 +1,17 @@
+{
+  "decompiled_text_len": 1626, 
+  "edges": 39, 
+  "var_count_text_tokens": 43, 
+  "goto_count": 2, 
+  "while_count": 1, 
+  "basename": "5_O0", 
+  "nodes": 23, 
+  "ghidra_version": "unknown", 
+  "binary": "/home/ayan/Desktop/mtd_llm_research/output/T1_WordCount/gpt5/5_O0", 
+  "function": "main", 
+  "if_count": 9, 
+  "switch_count": 0, 
+  "locals_count_decompiler": 15, 
+  "cyclomatic_est": 18, 
+  "timestamp": 1763990626.691
+}

@@ -1,0 +1,17 @@
+{
+  "decompiled_text_len": 5291, 
+  "edges": 26, 
+  "var_count_text_tokens": 92, 
+  "goto_count": 0, 
+  "while_count": 0, 
+  "basename": "1_elit", 
+  "nodes": 11, 
+  "ghidra_version": "unknown", 
+  "binary": "/home/ayan/Desktop/mtd_llm_research/output/T1_WordCount/gemini/1_elit", 
+  "function": "main", 
+  "if_count": 5, 
+  "switch_count": 0, 
+  "locals_count_decompiler": 16, 
+  "cyclomatic_est": 17, 
+  "timestamp": 1763991922.751
+}

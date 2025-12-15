@@ -1,0 +1,17 @@
+{
+  "decompiled_text_len": 1896, 
+  "edges": 43, 
+  "var_count_text_tokens": 48, 
+  "goto_count": 2, 
+  "while_count": 2, 
+  "basename": "5_clang_O2", 
+  "nodes": 25, 
+  "ghidra_version": "unknown", 
+  "binary": "/home/ayan/Desktop/mtd_llm_research/output/T1_WordCount/human/5_clang_O2", 
+  "function": "main", 
+  "if_count": 11, 
+  "switch_count": 0, 
+  "locals_count_decompiler": 9, 
+  "cyclomatic_est": 20, 
+  "timestamp": 1763990902.262
+}

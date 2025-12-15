@@ -1,0 +1,17 @@
+{
+  "decompiled_text_len": 1495, 
+  "edges": 32, 
+  "var_count_text_tokens": 47, 
+  "goto_count": 1, 
+  "while_count": 3, 
+  "basename": "1_O3", 
+  "nodes": 17, 
+  "ghidra_version": "unknown", 
+  "binary": "/home/ayan/Desktop/mtd_llm_research/output/T2_BubbleSort/gemini/1_O3", 
+  "function": "main", 
+  "if_count": 5, 
+  "switch_count": 0, 
+  "locals_count_decompiler": 10, 
+  "cyclomatic_est": 17, 
+  "timestamp": 1763986910.898
+}

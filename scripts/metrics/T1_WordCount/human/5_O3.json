@@ -1,0 +1,17 @@
+{
+  "decompiled_text_len": 1599, 
+  "edges": 40, 
+  "var_count_text_tokens": 42, 
+  "goto_count": 1, 
+  "while_count": 2, 
+  "basename": "5_O3", 
+  "nodes": 24, 
+  "ghidra_version": "unknown", 
+  "binary": "/home/ayan/Desktop/mtd_llm_research/output/T1_WordCount/human/5_O3", 
+  "function": "main", 
+  "if_count": 10, 
+  "switch_count": 0, 
+  "locals_count_decompiler": 7, 
+  "cyclomatic_est": 18, 
+  "timestamp": 1763991176.294
+}

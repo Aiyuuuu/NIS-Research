@@ -1,0 +1,17 @@
+{
+  "decompiled_text_len": 7884, 
+  "edges": 53, 
+  "var_count_text_tokens": 109, 
+  "goto_count": 1, 
+  "while_count": 2, 
+  "basename": "3_elit", 
+  "nodes": 22, 
+  "ghidra_version": "unknown", 
+  "binary": "/home/ayan/Desktop/mtd_llm_research/output/T2_BubbleSort/gpt5/3_elit", 
+  "function": "main", 
+  "if_count": 7, 
+  "switch_count": 0, 
+  "locals_count_decompiler": 23, 
+  "cyclomatic_est": 33, 
+  "timestamp": 1763985761.732
+}
